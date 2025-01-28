@@ -1,0 +1,67 @@
+nav {	
+	ul {	
+		list-style-type: none;
+		margin: 10;
+		padding: 0;
+		overflow: hidden;
+		background-color: #333333;
+	}
+	li {
+	  	float: left;
+	}
+	li a {
+	  	display: block;
+	  	color: white;
+	  	text-align: center;
+	  	padding: 20px;
+	  	text-decoration: none;
+	}
+	li a:hover {
+		background-color: #111111;
+	}
+	//length : 50%;
+	//width : 100%;
+	background-color : #224950;
+	//float: left;
+}
+body {
+	background-color : #224950;
+	color : #efffff;
+	font-family : arial, helvetica, sans-serif;
+	text-align : center;
+}
+header {
+	text-align : center;
+	background-color : #6C2B7E;
+	//background-image : url (images/roypic.jpg);
+}
+header h1 {
+	background-color :#224950
+	opacity : .8;
+	}
+section {
+	passing-left: 20%;
+}
+footer {
+}
+p {
+	line-height : 150%;
+}
+.right {
+	text-align : right;
+}
+.center {
+	text-align : center;
+}
+.left {
+	text-align : left;
+}
+a {
+	//display: block;
+	//background-color : #56789a;
+	text-decoration : underline;
+	color: #ffffff
+}
+//a:hover {
+	background-color : #a98765;
+}
